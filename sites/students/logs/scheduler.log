@@ -217,3 +217,37 @@
 2023-01-06 19:15:20,163 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for students
 2023-01-06 19:15:20,274 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for students
 2023-01-06 19:15:20,656 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for students
+2023-01-06 19:32:53,415 DEBUG scheduler Queued events for site students
+2023-01-06 19:32:53,710 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for students
+2023-01-06 19:32:54,916 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for students
+2023-01-06 19:32:55,047 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for students
+2023-01-06 19:32:55,519 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for students
+2023-01-06 19:32:55,624 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for students
+2023-01-06 19:32:56,025 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for students
+2023-01-06 19:32:56,133 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for students
+2023-01-06 19:32:56,906 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for students
+2023-01-06 19:32:57,008 INFO scheduler Scheduled Job Start: erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs for students
+2023-01-06 19:32:58,300 INFO scheduler Scheduled Job Complete: erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs for students
+2023-01-06 19:32:58,449 INFO scheduler Scheduled Job Start: erpnext.utilities.doctype.video.video.update_youtube_data for students
+2023-01-06 19:32:59,732 INFO scheduler Scheduled Job Complete: erpnext.utilities.doctype.video.video.update_youtube_data for students
+2023-01-06 19:32:59,865 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for students
+2023-01-06 19:33:00,323 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for students
+2023-01-06 19:33:00,465 INFO scheduler Scheduled Job Start: frappe.monitor.flush for students
+2023-01-06 19:33:00,801 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for students
+2023-01-06 19:33:00,914 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for students
+2023-01-06 19:33:01,218 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for students
+2023-01-06 19:33:01,330 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for students
+2023-01-06 19:33:02,057 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for students
+2023-01-06 19:33:02,177 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for students
+2023-01-06 19:33:02,636 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for students
+2023-01-06 19:33:02,751 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for students
+2023-01-06 19:33:03,145 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for students
+2023-01-06 19:33:03,248 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for students
+2023-01-06 19:33:03,704 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for students
+2023-01-06 19:33:03,827 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for students
+2023-01-06 19:33:04,327 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for students
+2023-01-06 19:33:04,460 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for students
+2023-01-06 19:33:05,061 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for students
+2023-01-06 19:33:05,192 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for students
+2023-01-06 19:33:06,912 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for students
+2023-01-06 19:33:53,994 DEBUG scheduler Queued events for site students
