@@ -7,5 +7,25 @@
         "required": [],
         "idx": 1,
         "version": "13.46.3"
+    },
+    "demo_app": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "a59d2162c443630c3b1c2a408afaadba006f3f59",
+            "branch": "master"
+        },
+        "required": [],
+        "idx": 2,
+        "version": "0.0.1"
+    },
+    "erpnext": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "3efa5215a0c397b1274a4728e423dc325c0c36c5",
+            "branch": "version-13"
+        },
+        "required": [],
+        "idx": 3,
+        "version": "13.43.0"
     }
 }
